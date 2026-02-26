@@ -2,14 +2,14 @@
 
 ## Description
 This project is an API Test Automation framework built for the BNP Paribas Fortis technical test. 
-[cite_start]It targets the Restful-Booker API using Java, Rest-Assured, and Cucumber[cite: 1, 4].
+It targets the Restful-Booker API using Java, Rest-Assured, and Cucumber
 
 ## Tech Stack
 - **Language**: Java 17
 - **Testing Framework**: Rest-Assured (Fluent API)
 - **BDD Framework**: Cucumber (Gherkin scenarios)
 - **Build Tool**: Maven
-- [cite_start]**Design Pattern**: Layered Architecture (Models, Clients, Steps) [cite: 27]
+- **Design Pattern**: Layered Architecture (Models, Clients, Steps) 
 
 ## How to Run
 1. Clone the repository.
